@@ -1,0 +1,15 @@
+b24bf998c8ed2b2e4b658e5fbe42baf8 *DESCRIPTION
+bb8e6b6c2b7b51d59b1397203dc127ac *NAMESPACE
+ba8a85bcb97caaadb92efd29a5a12355 *R/croneditor.R
+65978a38ebb751cbc80ddedeb6eeebb2 *README.md
+2e631c5d5ca0ac2321aac067e1f15403 *inst/examples/shiny-app.R
+c0584e0384c3d00b58fd32c4efb08baf *inst/htmlwidgets/cron.js
+c70e12486d907d061e4895bd3e725cff *inst/htmlwidgets/cron.yaml
+e8220cf9150133730edb2de87bcfd03b *inst/htmlwidgets/lib/cron-expression-input.min.css
+e007db70f395096ea3b5f5eaaafa6558 *inst/htmlwidgets/lib/cron-expression-input.min.js
+c97026dab64842506f4e69e1c2d70d20 *inst/htmlwidgets/lib/en-US.js
+e76d9cded1c22176017dedc4914a0ed8 *inst/htmlwidgets/lib/es-ES.js
+00a50e8b30e4d9b42e41424276690d6a *inst/htmlwidgets/lib/nl-NL.js
+27ffa03c3746304796b3b404ed211cc7 *inst/htmlwidgets/lib/zh-CN.js
+e99c9bc1527d6d56a12954861bfdfb6a *man/cron.Rd
+146f262a616bf19ae8e149bd9ec47745 *man/croneditor-shiny.Rd

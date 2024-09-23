@@ -1,0 +1,2 @@
+const ceInputLang = {stepChoise: "interval",step: "stap",every: "elke",rangeChoise: "bereik",min: "min.",max: "max.",choise: "handmatige keuze",minute: "Minuten",hours: "uren",dayOfMonth: "dag(en) van de maand",month: "maand",daysOfWeek: "dag(en) van de week",invalidCron: "ongeldig cron-schema, probeer het met (* * * * *)",inputPlaceholder: "cronschema"};
+ 
